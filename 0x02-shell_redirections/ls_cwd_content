@@ -1,0 +1,20 @@
+total 116
+drwxr-xr-x 2 root root  4096 Feb 15 19:48 .
+drwxr-xr-x 4 root root    49 Feb 14 02:12 ..
+-rw------- 1 root root 12288 Feb 15 07:01 .0-hello_world.swm
+-rw------- 1 root root 12288 Feb 15 06:56 .0-hello_world.swn
+-rw------- 1 root root 12288 Feb 15 06:05 .0-hello_world.swo
+-rw------- 1 root root 12288 Feb 14 05:36 .0-hello_world.swp
+-rwxr--r-- 1 root root    28 Feb 15 18:50 2-hellofile
+-rw------- 1 root root 12288 Feb 15 13:21 .2-hellofile.swp
+-rwxr--r-- 1 root root    39 Feb 15 18:59 3-twofiles
+-rwxr--r-- 1 root root    29 Feb 15 17:51 4-lastlines
+-rwxr--r-- 1 root root    29 Feb 15 19:10 5-firstlines
+-rwxr--r-- 1 root root    40 Feb 15 19:23 6-third_line
+-rwxr--r-- 1 root root    36 Feb 15 19:48 8-cwd_state
+-rw-r--r-- 1 root root     0 Feb 15 19:35 cwd_content
+-rw-r--r-- 1 root root     0 Feb 15 19:26 iacta
+-rw-r--r-- 1 root root    50 Feb 15 19:36 ls
+-rw-r--r-- 1 root root     0 Feb 15 19:49 ls_cwd_content
+-rw-r--r-- 1 root root 12288 Feb 14 04:15 .o-hello_world.swo
+-rw------- 1 root root 12288 Feb 14 02:21 .o-hello_world.swp
